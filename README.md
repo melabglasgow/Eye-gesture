@@ -21,7 +21,7 @@ This setup has been tested under Win10 64bits
   * NI VISA 19.5
   * VIPM-> LabVIEW Interface for Arduino 2.2.0.79
 * Serial port driver
-* Arduino
+* Arduino IDE
 * Python 3.6 (for gaze tracking)
   * opencv_python
   * dlib
@@ -49,7 +49,7 @@ This setup has been tested under Win10 64bits
 * Python 3.6 (for Tetris game)
   * pygame
 * Serial port driver
-* Arduino
+* Arduino IDE
 
 #### Make it works
 
@@ -58,5 +58,7 @@ This setup has been tested under Win10 64bits
 
 ## Acknowledgements
 Special thanks to Antoine Lamé and Pavel Benáček: 
+
 The code is the GFS package was based in part of the source code of the [antoinelame/GazeTracking](https://github.com/antoinelame/GazeTracking)
+
 The code is the Tetris game was based in part of the source code of the [benycze/python-tetris](https://github.com/benycze/python-tetris)
